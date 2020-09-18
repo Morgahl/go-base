@@ -15,4 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
+      env:
+        DOCKER_BUILDKIT: 1
       run: docker build . --file .devcontainer/Dockerfile --tag go-base:$(date +%s)
