@@ -1,5 +1,5 @@
 # Base Go (Golang) 
-1. Clone or use as a template from [Base Go Repository](https://github.com/curlmyon/go-base)
+1. Clone or use as a template from [Base Go Repository](https://github.com/curlymon/go-base)
 
     [Create Project from Template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
     
